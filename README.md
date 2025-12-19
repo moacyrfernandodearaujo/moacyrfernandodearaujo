@@ -40,3 +40,55 @@ Minha mente está sempre em movimento. Organizo meus pensamentos e estudos técn
 ---
 
 *“Educação, Soberania Digital e Dignidade em movimento.”*
+
+
+# Guia de Contribuição – Meca Genial
+
+Obrigado por considerar contribuir com o **Meca Genial**, um projeto educacional open source que visa criar cidades-escola ao longo das rodovias, promovendo educação técnica acessível e desenvolvimento sustentável.
+
+## 🌍 Nossa Missão
+Transformar estradas em caminhos para o futuro, levando educação prática e inovação para regiões afastadas. Este projeto é **open source** para garantir transparência e colaboração global.
+
+---
+
+## ✅ Como Contribuir
+Existem várias formas de ajudar:
+- **Código**: Melhorias, correções, novas funcionalidades.
+- **Documentação**: Traduções, tutoriais, guias.
+- **Design**: Layouts, UX, identidade visual.
+- **Ideias**: Sugestões para expansão e impacto social.
+
+---
+
+## 🔧 Requisitos Técnicos
+- Linguagens principais: **HTML, CSS, JavaScript** (para o site), **Markdown** (para documentação).
+- Ferramentas: Git, GitHub.
+- Padrão de código: Seguir boas práticas e manter comentários claros.
+
+---
+
+## 📂 Fluxo de Contribuição
+1. **Fork** este repositório.
+2. Crie uma **branch** para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Faça suas alterações e **commit**: `git commit -m "Minha melhoria"`.
+4. Envie para seu fork: `git push origin minha-contribuicao`.
+5. Abra um **Pull Request** explicando sua contribuição.
+
+---
+
+## 🤝 Código de Conduta
+- Seja respeitoso e colaborativo.
+- Contribuições devem promover inclusão e acessibilidade.
+- Não serão aceitos conteúdos ofensivos ou discriminatórios.
+
+---
+
+## 🔗 Links Úteis
+- ./README.md
+- ./LICENSE
+- https://www.mecagenial.org
+
+---
+
+**Juntos, podemos mudar o rumo da educação!**
+
